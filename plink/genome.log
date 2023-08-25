@@ -1,0 +1,14 @@
+PLINK v1.90b3 64-bit (11 Jan 2015)
+5 arguments: --23file ../23andMe/genome_Andrei_v5_Full_20230824230243.txt Andrei --out genome
+Hostname: hostname
+Working directory: /home/user/projects/genome/plink
+Start time: Fri Aug 25 09:54:08 2023
+
+Random number seed: 1692946448
+128742 MB RAM detected; reserving 64371 MB for main workspace.
+--23file: genome.bed + genome.bim + genome.fam written.
+4834 variants with indel calls present.  '--snps-only no-DI' or
+--list-23-indels may be useful here.
+Inferred sex: male.
+
+End time: Fri Aug 25 09:54:08 2023
